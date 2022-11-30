@@ -26,6 +26,11 @@ It can be thought of as a sequence of layers, in which every layer transforms th
 * Long Short-Term Memory (LSTM) <br>
 It is an artificial neural network used in the fields of artificial intelligence and deep learning. Unlike standard feedforward neural networks, LSTM has feedback connections. The connection weights and biases in the network change once per episode of training, analogous to how physiological changes in synaptic strengths store long-term memories; the activation patterns in the network change once per time-step, analogous to how the moment-to-moment change in electric firing patterns in the brain store short-term memories.
 
+# Links to the three plotly plots (exploratory data analysis) 
+* [Sales by Date] (file:///Users/aswin/Downloads/Python%20/DL_sales_forcasting/sales_by_date.html)
+* [Store Sales by Date] (file:///Users/aswin/Downloads/Python%20/DL_sales_forcasting/store_sales_by_date.html)
+* [Item Sales by Date] (file:///Users/aswin/Downloads/Python%20/DL_sales_forcasting/item_sales_by_date.html)
+
 # Accuracy score of the Models
 * MLP
 * Train data RMSE : 15.93
